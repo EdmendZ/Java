@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa58454c-3af6-46fb-8dae-672458fa0b9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/innerCar/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/innerCar/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/localInnerC/LocalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/anoymousClass/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/anoymousClass/AnoymousClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/anoymousClass/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/anoymousClass/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LocalClass">
+  <component name="RunManager" selected="Application.AnoymousClass">
+    <configuration name="AnoymousClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zls.anoymousClass.AnoymousClass" />
+      <module name="innerClassExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zls.anoymousClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zls.innerCar.CarTest" />
       <module name="innerClassExercise" />
@@ -93,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnoymousClass" />
         <item itemvalue="Application.LocalClass" />
         <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.StudentTest" />
@@ -107,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770076120671</updated>
-      <workItem from="1770076121668" duration="20161000" />
+      <workItem from="1770076121668" duration="21131000" />
     </task>
     <servers />
   </component>
