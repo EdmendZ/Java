@@ -5,11 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa58454c-3af6-46fb-8dae-672458fa0b9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/anoymousClass/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/anoymousClass/AnoymousClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/anoymousClass/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/anoymousClass/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/ActorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/exercise/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/exercise/PrintableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/exercise2/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/exercise2/CalculateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/omissionRules/PrintTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/omissionRules/PrintTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/randomNumber/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/randomNumber/RandomNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/AnoymousClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/AnoymousClass$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/AnoymousClass$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/AnoymousClass$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/AnoymousClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/AnoymousClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/Calculate.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/Calculate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/StudentManager$StudentSorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/StudentManager$StudentSorter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/StudentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/StudentManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/StudentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/innerCar/Car$Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/innerCar/Car$Engine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/innerCar/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/innerCar/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/innerCar/CarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/innerCar/CarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/localInnerC/LocalClass$1Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/localInnerC/LocalClass$1Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/localInnerC/LocalClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/localInnerC/LocalClass.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +44,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -49,16 +75,20 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/edmendzhang/Documents/Java/JavaProject/Java/innerClassExercise/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AnoymousClass">
-    <configuration name="AnoymousClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zls.anoymousClass.AnoymousClass" />
+  <component name="RunManager" selected="Application.RandomNumberTest">
+    <configuration name="ActorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zls.lambda.ActorTest" />
       <module name="innerClassExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zls.anoymousClass.*" />
+          <option name="PATTERN" value="com.zls.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zls.innerCar.CarTest" />
+    <configuration name="CalculateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zls.lambda.exercise2.CalculateTest" />
       <module name="innerClassExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zls.innerCar.*" />
+          <option name="PATTERN" value="com.zls.lambda.exercise2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zls.localInnerC.LocalClass" />
+    <configuration name="PrintTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zls.lambda.omissionRules.PrintTimeTest" />
       <module name="innerClassExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zls.localInnerC.*" />
+          <option name="PATTERN" value="com.zls.lambda.omissionRules.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +122,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zls.inner.StudentTest" />
+    <configuration name="PrintableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zls.lambda.exercise.PrintableTest" />
       <module name="innerClassExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zls.inner.*" />
+          <option name="PATTERN" value="com.zls.lambda.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomNumberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zls.lambda.randomNumber.RandomNumberTest" />
+      <module name="innerClassExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zls.lambda.randomNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,14 +150,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnoymousClass" />
-        <item itemvalue="Application.LocalClass" />
-        <item itemvalue="Application.CarTest" />
-        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.RandomNumberTest" />
+        <item itemvalue="Application.PrintTimeTest" />
+        <item itemvalue="Application.CalculateTest" />
+        <item itemvalue="Application.PrintableTest" />
+        <item itemvalue="Application.ActorTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="aa58454c-3af6-46fb-8dae-672458fa0b9f" name="Changes" comment="" />
@@ -122,7 +169,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770076120671</updated>
-      <workItem from="1770076121668" duration="21131000" />
+      <workItem from="1770076121668" duration="32961000" />
     </task>
     <servers />
   </component>
@@ -152,6 +199,20 @@
           <url>file://$PROJECT_DIR$/innerClassExercise/src/main/java/org/example/Main.java</url>
           <line>15</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/ActorTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/Test.java</url>
+          <line>3</line>
+          <properties class="com.zls.lambda.Test" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
