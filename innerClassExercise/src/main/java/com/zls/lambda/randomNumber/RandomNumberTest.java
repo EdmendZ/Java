@@ -9,7 +9,7 @@ public class RandomNumberTest {
 //            @Override
 //            public int getRandomNumber(int start, int end) {
 //                return 0;
-//            }
+//            } 
 //        };
 //
 //        RandomNumber r2 = (int start, int end) -> {

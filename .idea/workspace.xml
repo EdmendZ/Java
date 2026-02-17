@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa58454c-3af6-46fb-8dae-672458fa0b9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/ActorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/exercise/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/exercise/PrintableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/exercise2/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/exercise2/CalculateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/omissionRules/PrintTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/omissionRules/PrintTimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/randomNumber/RandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/lambda/randomNumber/RandomNumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/AnoymousClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/AnoymousClass$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/AnoymousClass$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/AnoymousClass$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/AnoymousClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/AnoymousClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/Calculate.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/Calculate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/anoymousClass/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/StudentManager$StudentSorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/StudentManager$StudentSorter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/StudentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/StudentManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/inner/StudentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/innerCar/Car$Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/innerCar/Car$Engine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/innerCar/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/innerCar/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/innerCar/CarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/innerCar/CarTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/localInnerC/LocalClass$1Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/localInnerC/LocalClass$1Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/localInnerC/LocalClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/localInnerC/LocalClass.class" afterDir="false" />
-    </list>
+    <list default="true" id="aa58454c-3af6-46fb-8dae-672458fa0b9f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +138,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770076120671</updated>
-      <workItem from="1770076121668" duration="32961000" />
+      <workItem from="1770076121668" duration="34228000" />
     </task>
     <servers />
   </component>
