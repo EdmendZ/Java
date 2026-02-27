@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa58454c-3af6-46fb-8dae-672458fa0b9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/Queue/LinkedBlockingQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/Queue/PriorityQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/Queue/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/list/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/list/MyStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/list/exercise/Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/list/exercise/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/Queue/ComparableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/Queue/ComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/Queue/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/Queue/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/Queue/PriorityQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/Queue/PriorityQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/Queue/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/src/main/java/com/zls/Queue/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/Queue/PriorityQueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/Queue/PriorityQueueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/Queue/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/innerClassExercise/target/classes/com/zls/Queue/User.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,33 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PriorityQueueTest">
+  <component name="RunManager" selected="Application.ComparatorTest">
+    <configuration name="ComparableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zls.Queue.ComparableTest" />
+      <module name="innerClassExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zls.Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zls.Queue.ComparatorTest" />
+      <module name="innerClassExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zls.Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zls.list.exercise.Exercise" />
       <module name="innerClassExercise" />
@@ -90,32 +117,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zls.list.LinkedListTest" />
-      <module name="innerClassExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zls.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyStackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zls.list.MyStackTest" />
-      <module name="innerClassExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zls.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PriorityQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zls.Queue.PriorityQueueTest" />
       <module name="innerClassExercise" />
@@ -131,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComparatorTest" />
+        <item itemvalue="Application.ComparableTest" />
         <item itemvalue="Application.PriorityQueueTest" />
         <item itemvalue="Application.LinkedBlockingQueueTest" />
         <item itemvalue="Application.Exercise" />
-        <item itemvalue="Application.MyStackTest" />
-        <item itemvalue="Application.LinkedListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +153,7 @@
       <updated>1770076120671</updated>
       <workItem from="1770076121668" duration="36880000" />
       <workItem from="1771376241695" duration="8808000" />
-      <workItem from="1771798580141" duration="16526000" />
+      <workItem from="1771798580141" duration="20516000" />
     </task>
     <servers />
   </component>

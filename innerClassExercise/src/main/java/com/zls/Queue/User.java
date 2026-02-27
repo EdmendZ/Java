@@ -1,37 +1,20 @@
 package com.zls.Queue;
 
-public class User {
+public class User implements Comparable<User> {
 
     private String name;
 
-    private int age;
+    private int level;
 
-    public User(String name, int age) {
+    public User(String name, int level) {
         this.name = name;
-        this.age = age;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public int getAge() {
-        return age;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setAge(int age) {
-        this.age = age;
+        this.level = level;
     }
 
     @Override
-    public String toString() {
-        return "User{" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                '}';
+    public int compareTo(User o) {
+        if (level == o.level) return 0;
+        else if(level < o.level) return -1;
+        else return 1;
     }
 }
